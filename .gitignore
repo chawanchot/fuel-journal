@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-subpath/
+dist-subpath/
+playwright-report/
+test-results/
+.vercel/
+.env.local
+*.tsbuildinfo
